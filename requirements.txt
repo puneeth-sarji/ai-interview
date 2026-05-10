@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+websockets
+sqlalchemy
+asyncpg
+psycopg2-binary
+docker
+google-generativeai
+pydantic-settings
